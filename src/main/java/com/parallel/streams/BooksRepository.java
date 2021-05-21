@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.parallel.streams;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
